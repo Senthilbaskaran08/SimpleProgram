@@ -6,9 +6,14 @@ static void program() {
 	System.out.println(s);
 }
 	
+static void program1() {
+	String s = "Senthil1";
+	System.out.println(s);
+}
 public static void main(String[] args) {
 	JavaProgram obj = new JavaProgram();
 	obj.program();
+	obj.program1();
 }
 }
  
