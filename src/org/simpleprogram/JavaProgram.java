@@ -14,6 +14,10 @@ static void program1() {
 	String s = "Senthil1";
 
 	System.out.println(s);
+static void program3() {
+	String s = "Senthil3";
+
+	System.out.println(s);
 }
 public static void main(String[] args) {
 	JavaProgram obj = new JavaProgram();
@@ -22,6 +26,7 @@ public static void main(String[] args) {
 	obj.program2();
 
 	obj.program1();
+	obj.program3();
 
 }
 }	
