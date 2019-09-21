@@ -10,15 +10,7 @@ static void program2() {
 	String s = "Senthil2";
 
 	
-static void program1() {
-	String s = "Senthil1";
 
-	System.out.println(s);
-static void program3() {
-	String s = "Senthil3";
-
-	System.out.println(s);
-}
 static void program4() {
 	String s = "Senthil4";
 
@@ -30,8 +22,7 @@ public static void main(String[] args) {
 
 	obj.program2();
 
-	obj.program1();
-	obj.program3();
+	
 	obj.program4();
 
 }
