@@ -9,6 +9,18 @@ static void program() {
 static void program2() {
 	String s = "Senthil2";
 
+static void program3() {
+	String s = "Senthil2";
+
+	
+static void program4() {
+	String s = "Senthil2";
+
+	
+static void program5() {
+	String s = "Senthil2";
+
+	
 	
 
 static void program4() {
